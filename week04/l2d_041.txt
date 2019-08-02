@@ -1,0 +1,2 @@
+dogs cats ponies giraffes
+4 9 1 0

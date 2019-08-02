@@ -1,0 +1,4 @@
+joe,almonds,almonds,blue cheese,cabbage,mayonnaise,cherry pie,cola
+mary,apple pie,avocado,broccoli,butter,danish pastry,lettuce,apple
+sandy,zuchini,yogurt,veal,tuna,taco,pumpkin pie,macadamia nuts,brazil nuts
+trudy,waffles,waffles,waffles,chicken noodle soup,chocolate chip cookie
