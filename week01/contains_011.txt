@@ -1,0 +1,4 @@
+c cat
+AC cat
+tac caT
+ttac cat
