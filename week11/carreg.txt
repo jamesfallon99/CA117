@@ -1,0 +1,18 @@
+$ cat cars_111.txt
+# Valid car registrations
+151 D 1
+151 D 10
+142 KY 2
+161 C 1111
+
+# Invalid car registrations
+151 D 0
+151 D 01
+153 D 3
+1151 D 3
+151 DE 4
+142 C 01
+142 C 1a
+142 Ca 01
+1142 Ca 01
+141 G abc
